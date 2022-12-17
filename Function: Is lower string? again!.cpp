@@ -1,3 +1,4 @@
+//const allow other things like passing temporary variables
 #include<iostream>
 #include<cstdlib>
 using namespace std;
