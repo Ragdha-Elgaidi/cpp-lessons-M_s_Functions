@@ -15,5 +15,6 @@
 #### For choice 3:
 -User enter to values, start age and end age
    - Find all employees with: start_age <= age <= end_age and remove them
-#### For choice 4: User enter name, then salary
+#### For choice 4: 
+- User enter name, then salary
    - Find the employee and update his salary
